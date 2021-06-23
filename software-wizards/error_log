@@ -1,0 +1,2 @@
+[09-Feb-2020 16:26:51 UTC] PHP Parse error:  syntax error, unexpected '$internship' (T_VARIABLE), expecting ',' or ';' in /home/nioinfot/public_html/limatsoftsolutions.co.in/application/views/common/internship-report.php on line 132
+[09-Feb-2020 16:27:16 UTC] PHP Parse error:  syntax error, unexpected '10' (T_LNUMBER), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/nioinfot/public_html/limatsoftsolutions.co.in/application/views/common/internship-report.php on line 139
